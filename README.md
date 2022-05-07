@@ -1,7 +1,8 @@
 <div style="margin:0;padding:0;">
-  <h1 style="text-align: center; !important;">Hi there 👋</h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEiepzoy5uO9Q/profile-displaybackgroundimage-shrink_200_800/0/1642917498111?e=1657152000&v=beta&t=UQjYMWwbpqLQQicKK4s_XxG-j8iXnI49tpSBkw2jPsE" style="width:100%;">
 </div>
+<h1 style="text-align: center; !important;">Hi there 👋</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100">
 <!--
 **jam65st/jam65st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
