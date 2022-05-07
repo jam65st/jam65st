@@ -1,5 +1,6 @@
-<div style="text-align: center; !important;">
-  <h1>Hi there 👋</h1>
+<div style="margin:0;padding:0;">
+  <h1 style="text-align: center; !important;">Hi there 👋</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100">
 </div>
 <!--
 **jam65st/jam65st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
