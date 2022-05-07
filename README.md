@@ -1,5 +1,5 @@
-<div style="text-align: center">
-  ### Hi there 👋
+<div style="text-align: center; !important;">
+  <h1>Hi there 👋</h1>
 </div>
 <!--
 **jam65st/jam65st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
